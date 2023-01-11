@@ -1,6 +1,6 @@
 [
   {
-    "id":"0",
+    "id":0,
     "titulo":"Costela com Barbecue",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 13.00",
@@ -8,7 +8,7 @@
     "descricao":"Costela Bovina Desfiada com molho Barbecue"
   },
   {
-    "id":"1",
+    "id":1,
     "titulo":"X-Tudo",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 17.00",
@@ -16,7 +16,7 @@
     "descricao":"Carne desfiada com Queijo Coalho, azeitona, Salsinha, calabresa, bacon, cebola, presunto"
   },
   {
-    "id":"2",
+    "id":2,
     "titulo":"Camarão com Queijo",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 20.00",
@@ -24,7 +24,7 @@
     "descricao":"Camarão médio com queijo coalho"
   },
   {
-    "id":"3",
+    "id":3,
     "titulo":"Carne de Sol com Queijo",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 15.00",
@@ -32,7 +32,7 @@
     "descricao":"carne de sol com queijo coalho"
   },
   {
-    "id":"4",
+    "id":4,
     "titulo":"Quatro Queijos",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 14.00",
@@ -40,7 +40,7 @@
     "descricao":"Queijo Mussarela, Queijo Catupiry, Queijo Parmesão e Quejo Provolone Cheeder"
   },
   {
-    "id":"5",
+    "id":5,
     "titulo":"Frango Desfiado com Queijo",
     "rendimento":"Serve até 2 Pessoas",
     "preco":"R$ 14.00",
