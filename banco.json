@@ -1,42 +1,50 @@
-0	
-id	0
-titulo	"Costela com Barbecue"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 13.00"
-img	"https://s2.glbimg.com/ORjnwCmtHQH0wGTz1art6V1JKK8=/smart/e.glbimg.com/og/ed/f/original/2021/03/12/receita-pastel-costela-geleia-pimenta.jpg"
-descricao	"Costela Bovina Desfiada com molho Barbecue"
-1	
-id	1
-titulo	"X-Tudo"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 17.00"
-img	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw_9tiD-RIKnc8HNPSOrlnoWkFytUTlAqig&usqp=CAU"
-descricao	"Carne desfiada com Queijo Coalho, azeitona, Salsinha, calabresa, bacon, cebola, presunto"
-2	
-id	2
-titulo	"Camarão com Queijo"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 20.00"
-img	"https://730370.smushcdn.com/1861587/wp-content/uploads/2022/06/pastel-de-camarao-com-queijo-scaled-e1654349909333-1024x576.jpeg?lossy=1&strip=1&webp=1"
-descricao	"Camarão médio com queijo coalho"
-3	
-id	3
-titulo	"Carne de Sol com Queijo"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 15.00"
-img	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwB0qGDlW2ikiAGv4gtP557-QaQUXwl0GuZQ&usqp=CAU"
-descricao	"carne de sol com queijo coalho"
-4	
-id	4
-titulo	"Quatro Queijos"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 14.00"
-img	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxH2GGLwSXXINsE9sRcRS17hsARDA2mN099w&usqp=CAU"
-descricao	"Queijo Mussarela, Queijo Catupiry, Queijo Parmesão e Quejo Provolone Cheeder"
-5	
-id	5
-titulo	"Frango Desfiado com Queijo"
-rendimento	"Serve até 2 Pessoas"
-preco	"R$ 14.00"
-img	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nlA6KJZUabI06_o1rzi-Ecej4hCnDrRkqw&usqp=CAU"
-descricao	"Frango Desfiado com Queijo Catupiry"
+[
+  {
+    "id:0",
+    "titulo":"Costela com Barbecue",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 13.00",
+    "img":"https://s2.glbimg.com/ORjnwCmtHQH0wGTz1art6V1JKK8=/smart/e.glbimg.com/og/ed/f/original/2021/03/12/receita-pastel-costela-geleia-pimenta.jpg",
+    "descricao":"Costela Bovina Desfiada com molho Barbecue"
+  },
+  {
+    "id":1,
+    "titulo":"X-Tudo",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 17.00",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfw_9tiD-RIKnc8HNPSOrlnoWkFytUTlAqig&usqp=CAU",
+    "descricao":"Carne desfiada com Queijo Coalho, azeitona, Salsinha, calabresa, bacon, cebola, presunto"
+  },
+  {
+    "id":2,
+    "titulo":"Camarão com Queijo",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 20.00",
+    "img":"https://730370.smushcdn.com/1861587/wp-content/uploads/2022/06/pastel-de-camarao-com-queijo-scaled-e1654349909333-1024x576.jpeg?lossy=1&strip=1&webp=1",
+    "descricao":"Camarão médio com queijo coalho"
+  },
+  {
+    "id":3,
+    "titulo":"Carne de Sol com Queijo",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 15.00",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwB0qGDlW2ikiAGv4gtP557-QaQUXwl0GuZQ&usqp=CAU",
+    "descricao":"carne de sol com queijo coalho"
+  },
+  {
+    "id":4,
+    "titulo":"Quatro Queijos",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 14.00",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxH2GGLwSXXINsE9sRcRS17hsARDA2mN099w&usqp=CAU",
+    "descricao":"Queijo Mussarela, Queijo Catupiry, Queijo Parmesão e Quejo Provolone Cheeder"
+  },
+  {
+    "id":5,
+    "titulo":"Frango Desfiado com Queijo",
+    "rendimento":"Serve até 2 Pessoas",
+    "preco":"R$ 14.00",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nlA6KJZUabI06_o1rzi-Ecej4hCnDrRkqw&usqp=CAU"
+    "descricao":"Frango Desfiado com Queijo Catupiry"
+  }
+]
